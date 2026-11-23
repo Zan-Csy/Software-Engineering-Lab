@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.lab4_build/
+.lab4_template.docx
+.lab4_*.txt
+.lab4_*.py
+.dsh-acl-recovery*/
+report_preview*.docx
